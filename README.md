@@ -4,7 +4,6 @@ To run this project, you will need:
 - Streamlit
 - scikit-learn
 - pandas
-- Other dependencies listed in `requirements.txt`
 
 To run the movie recommendation system web app locally, follow these steps:
 
