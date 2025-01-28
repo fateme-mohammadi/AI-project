@@ -1,3 +1,24 @@
+To run this project, you will need:
+
+- Python 3.x
+- Streamlit
+- scikit-learn
+- pandas
+- Other dependencies listed in `requirements.txt`
+
+To run the movie recommendation system web app locally, follow these steps:
+
+- Ensure that your movies.csv, links.csv, and tags.csv files are in the same directory as the app.py file.
+
+- Run the Streamlit app:
+streamlit run app.py
+
+- Once the app starts, open your browser and go to:
+http://localhost:8501
+
+You'll see the Movie Recommendation System interface where you can input a movie title to get recommendations.
+
+
 Summary
 =======
 
