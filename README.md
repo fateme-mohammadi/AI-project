@@ -17,6 +17,7 @@ http://localhost:8501
 
 You'll see the Movie Recommendation System interface where you can input a movie title to get recommendations.
 
+*** The three files MovieRecomander, merge_films&ratings, merge_films&tags are another version of our project. To run, it is enough to run file MovieRecomander. ***
 
 Summary
 =======
